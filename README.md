@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apoorv</h1>
-<h3 align="center">I am working on my next data analytics project.</h3>
+<h3 align="center">I am working on my next Data Science project.</h3>
 
 - 🌱 I’m currently learning **exploratory data analysis**
 
