@@ -15,15 +15,19 @@
 </p>
 <br>
 <div align="center">
- <h2><strong>Projects</strong></h2>
+ <h2><strong>My Code</strong></h2>
 </div>
 
-#### **I. Exploratory Data Analytics Projects**
+#### **I. Projects**
 |     Project Name      |               Task                |                                                                                                                                             Objective                                                                                                                                              |          Prominent Techniques / Tools          |
 |:---------------------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
 |   [Airbnb data preprocessing](https://github.com/apoorvtripathi1999/Complete-Data-Science-and-ML-Project-Portfolio/blob/main/Data%20Cleaning/airbnb_data_cleaning.ipynb)    |    data cleaning and preprocessing     |                                                        To load the dataset and clean the data set for performing exploratory data analysis on airbnb data                                                        |                   Basic data preprocessing                   |
 |   [Keywords from a book](https://github.com/apoorvtripathi1999/Complete-Data-Science-and-ML-Project-Portfolio/blob/main/NLP/keywords_novel.ipynb)    |    data cleaning and preprocessing     |                                                        To use a novel as a dataset and display the top frequently occuring words                                                       |                   Basic data preprocessing                   |
 |   [Sentiment Analysis](https://github.com/apoorvtripathi1999/Complete-Data-Science-and-ML-Project-Portfolio/blob/main/NLP/sentiment_analysis.ipynb)   |    Natural Language Processing     |                                                        Using data from customer reviews to determine the sentiment using three prominent NLP techniques and comparing the efficiency of those techniques                                                       |                   Comparison of prominent NLP techniques                   |
+|   [BookAI](https://github.com/apoorvtripathi1999/bookai)  |    LLM based web application     |                                                        Using google's VertexAI api for LLM in a web application, where a user can upload a pdf file and ask questions based on the PDF file uploaded in a voice based interactive environment                                                       |                   Google Cloud Platform, Google API: VertexAI and Text to Speech                                                |
+|   [Doordash Report](https://github.com/apoorvtripathi1999/bi_reports)   |    Data Visualization     |                                                        Using PowerBI to display various metrics including sales, inventory, marketing and customer segmentation                                                       |                   PowerBI                                                   |
+|   [E-commerce forcasting](https://github.com/apoorvtripathi1999/walmart-sales)  |    Machine Learning, EDA, Feature Engineering     |                                                        Using an Ecommerce big data and different machine learning models to forcast sales, segment customers and Inventory management, studying the efficiency of different models                                                      |                   Google Cloud Platform, Tableau, Machine Learning Models                                                   |
+
 
 #### **II. SQL**
 |         Project Name         |                  Task                   |
