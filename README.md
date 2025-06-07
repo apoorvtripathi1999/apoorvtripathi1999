@@ -15,10 +15,9 @@
 </p>
 <br>
 <div align="center">
- <h2><strong>My Code</strong></h2>
+ <h2><strong>My Projects</strong></h2>
 </div>
 
-#### **I. Projects**
 |     Project Name      |               Task                |                                                                                                                                             Objective                                                                                                                                              |          Prominent Techniques / Tools          |
 |:---------------------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
 |   [Airbnb data preprocessing](https://github.com/apoorvtripathi1999/Complete-Data-Science-and-ML-Project-Portfolio/blob/main/Data%20Cleaning/airbnb_data_cleaning.ipynb)    |    data cleaning and preprocessing     |                                                        To load the dataset and clean the data set for performing exploratory data analysis on airbnb data                                                        |                   Basic data preprocessing                   |
@@ -27,18 +26,6 @@
 |   [BookAI](https://github.com/apoorvtripathi1999/bookai)  |    LLM based web application     |                                                        Using google's VertexAI api for LLM in a web application, where a user can upload a pdf file and ask questions based on the PDF file uploaded in a voice based interactive environment                                                       |                   Google Cloud Platform, Google API: VertexAI and Text to Speech                                                |
 |   [Doordash Report](https://github.com/apoorvtripathi1999/bi_reports)   |    Data Visualization     |                                                        Using PowerBI to display various metrics including sales, inventory, marketing and customer segmentation                                                       |                   PowerBI                                                   |
 |   [E-commerce forcasting](https://github.com/apoorvtripathi1999/walmart-sales)  |    Machine Learning, EDA, Feature Engineering     |                                                        Using an Ecommerce big data and different machine learning models to forcast sales, segment customers and Inventory management, studying the efficiency of different models                                                      |                   Google Cloud Platform, Tableau, Machine Learning Models                                                   |
-
-
-#### **II. SQL**
-|         Project Name         |                  Task                   |
-|:----------------------------:|:---------------------------------------:|
-|      [SQL 50](https://github.com/apoorvtripathi1999/sql50/blob/master/50sql.sql)      |      Solve SQL 50 leetcode challenge      |
-#### **III. Python Libraries**
-|         Project Name         |                  Task                   |
-|:----------------------------:|:---------------------------------------:|
-|      [Pandas 100](https://github.com/apoorvtripathi1999/pandas_numpy_100/blob/master/100pandas.ipynb)      |      Solve Pandas 100 leetcode challenge      |
-|      [Numpy 100](https://github.com/apoorvtripathi1999/pandas_numpy_100/blob/master/100numpy.ipynb)      |      Solve Numpy 100 leetcode challenge      |
-|      Plotly and matplotlib     |      Solve 100 questions on Plotly and matplotlib      |
 
 
 
