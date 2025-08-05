@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Apoorv</h1>
 <h3 align="center">I am working on my next Machine Learning project.</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 📫 How to reach me **apoorvtripathi537@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,15 +16,14 @@
  <h2><strong>My Projects</strong></h2>
 </div>
 
-|     Project Name      |               Task                |                                                                                                                                             Objective                                                                                                                                              |          Prominent Techniques / Tools          |
-|:---------------------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
-|   [Airbnb data preprocessing](https://github.com/apoorvtripathi1999/Complete-Data-Science-and-ML-Project-Portfolio/blob/main/Data%20Cleaning/airbnb_data_cleaning.ipynb)    |    data cleaning and preprocessing     |                                                        To load the dataset and clean the data set for performing exploratory data analysis on airbnb data                                                        |                   Basic data preprocessing                   |
-|   [Keywords from a book](https://github.com/apoorvtripathi1999/Complete-Data-Science-and-ML-Project-Portfolio/blob/main/NLP/keywords_novel.ipynb)    |    data cleaning and preprocessing     |                                                        To use a novel as a dataset and display the top frequently occuring words                                                       |                   Basic data preprocessing                   |
-|   [Sentiment Analysis](https://github.com/apoorvtripathi1999/Complete-Data-Science-and-ML-Project-Portfolio/blob/main/NLP/sentiment_analysis.ipynb)   |    Natural Language Processing     |                                                        Using data from customer reviews to determine the sentiment using three prominent NLP techniques and comparing the efficiency of those techniques                                                       |                   Comparison of prominent NLP techniques                   |
-|   [BookAI](https://github.com/apoorvtripathi1999/bookai)  |    LLM based web application     |                                                        Using google's VertexAI api for LLM in a web application, where a user can upload a pdf file and ask questions based on the PDF file uploaded in a voice based interactive environment                                                       |                   Google Cloud Platform, Google API: VertexAI and Text to Speech                                                |
-|   [Doordash Report](https://github.com/apoorvtripathi1999/bi_reports)   |    Data Visualization     |                                                        Using PowerBI to display various metrics including sales, inventory, marketing and customer segmentation                                                       |                   PowerBI                                                   |
-|   [E-commerce forcasting](https://github.com/apoorvtripathi1999/walmart-sales)  |    Machine Learning, EDA, Feature Engineering     |                                                        Using an Ecommerce big data and different machine learning models to forcast sales, segment customers and Inventory management, studying the efficiency of different models                                                      |                   Google Cloud Platform, Tableau, Machine Learning Models                                                   |
-
+| Project Name | Summary | Objective |
+|:--------:|:--------:|:--------:|
+| [Content Recommendation System](https://github.com/apoorvtripathi1999/content) | Django Based Web App  | A Machine Learning-based content recommendation service using weighted collaborative filtering build using Django and Streamlit. |
+| [Customer Churn Prediction API](https://github.com/apoorvtripathi1999/customerchurnpreddiction) | FastAPI  | A production-ready machine learning API that predicts customer churn probability using advanced ensemble methods and custom feature engineering. Built with FastAPI, scikit-learn, and MySQL integration for scalable customer retention analytics. |
+| [Iris Classification App](https://github.com/apoorvtripathi1999/iris-classification) | ML based Web App  | The app visualizes Precision-Recall Curves to evaluate the models' performance and helps users interactively explore how different classifiers perform on the Iris dataset. |
+| [Kaggle Notebooks](https://github.com/apoorvtripathi1999/kagglenotebooks) | Practice Notebooks | Employing Machine Learning to solve real world problems |
+| [BookAI](https://github.com/apoorvtripathi1999/bookai) | LLM based web application | Using google's VertexAI api for LLM in a web application, where a user can upload a pdf file and ask questions based on the PDF file uploaded in a voice based interactive environment.|
+| [Doordash Report](https://github.com/apoorvtripathi1999/bi_reports) | Data Visualization  | Using PowerBI to display various metrics including sales, inventory, marketing and customer segmentation. |
 
 
 <h3 align="left">Languages and Tools:</h3>
