@@ -18,7 +18,8 @@
 
 | Project Name | Summary | Objective |
 |:--------:|:--------:|:--------:|
-| [Content Recommendation System](https://github.com/apoorvtripathi1999/content) | Django Based Web App  | A Machine Learning-based content recommendation service using weighted collaborative filtering build using Django and Streamlit. |
+| [Housing Price Prediction](https://github.com/apoorvtripathi1999/housingprice) | Complete Machine Learning Pipeline  | A comprehensive machine learning project that predicts housing prices using multiple ensemble techniques and provides an interactive web dashboard for model comparison and predictions. |
+| [Content Recommendation System](https://github.com/apoorvtripathi1999/content) | Streamlit Based Web App  | A Machine Learning-based content recommendation service using weighted collaborative filtering build using Django and Streamlit. |
 | [Customer Churn Prediction API](https://github.com/apoorvtripathi1999/customerchurnpreddiction) | FastAPI  | A production-ready machine learning API that predicts customer churn probability using advanced ensemble methods and custom feature engineering. Built with FastAPI, scikit-learn, and MySQL integration for scalable customer retention analytics. |
 | [Iris Classification App](https://github.com/apoorvtripathi1999/iris-classification) | ML based Web App  | The app visualizes Precision-Recall Curves to evaluate the models' performance and helps users interactively explore how different classifiers perform on the Iris dataset. |
 | [Kaggle Notebooks](https://github.com/apoorvtripathi1999/kagglenotebooks) | Practice Notebooks | Employing Machine Learning to solve real world problems |
