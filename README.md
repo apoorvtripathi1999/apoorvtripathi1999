@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Apoorv</h1>
-<h3 align="center">I am working on my next Machine Learning project.</h3>
+<h3 align="center">I am a graduate researcher at Florida Atlantic University.</h3>
 
 - 📫 How to reach me **apoorvtripathi537@gmail.com**
+- [My Portfolio](https://apoorvtripathi.vercel.app/)
+- [My Projects](https://github.com/apoorvtripathi1999?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,19 +14,6 @@
 <a href="https://www.leetcode.com/apoorvtripathi1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="apoorvtripathi1999" height="30" width="40" /></a>
 </p>
 <br>
-<div align="center">
- <h2><strong>My Projects</strong></h2>
-</div>
-
-| Project Name | Summary | Objective |
-|:--------:|:--------:|:--------:|
-| [Housing Price Prediction](https://github.com/apoorvtripathi1999/housingprice) | Complete Machine Learning Pipeline  | A comprehensive machine learning project that predicts housing prices using multiple ensemble techniques and provides an interactive web dashboard for model comparison and predictions. |
-| [Content Recommendation System](https://github.com/apoorvtripathi1999/content) | Streamlit Based Web App  | A Machine Learning-based content recommendation service using weighted collaborative filtering build using Django and Streamlit. |
-| [Customer Churn Prediction API](https://github.com/apoorvtripathi1999/customerchurnpreddiction) | FastAPI  | A production-ready machine learning API that predicts customer churn probability using advanced ensemble methods and custom feature engineering. Built with FastAPI, scikit-learn, and MySQL integration for scalable customer retention analytics. |
-| [Iris Classification App](https://github.com/apoorvtripathi1999/iris-classification) | ML based Web App  | The app visualizes Precision-Recall Curves to evaluate the models' performance and helps users interactively explore how different classifiers perform on the Iris dataset. |
-| [Kaggle Notebooks](https://github.com/apoorvtripathi1999/kagglenotebooks) | Practice Notebooks | Employing Machine Learning to solve real world problems |
-| [BookAI](https://github.com/apoorvtripathi1999/bookai) | LLM based web application | Using google's VertexAI api for LLM in a web application, where a user can upload a pdf file and ask questions based on the PDF file uploaded in a voice based interactive environment.|
-| [Doordash Report](https://github.com/apoorvtripathi1999/bi_reports) | Data Visualization  | Using PowerBI to display various metrics including sales, inventory, marketing and customer segmentation. |
 
 
 <h3 align="left">Languages and Tools:</h3>
