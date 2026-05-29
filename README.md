@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apoorv</h1>
-<h3 align="center">I am a graduate researcher at Florida Atlantic University.</h3>
+<h3 align="center">I am a Machine Learning Intern.</h3>
 
 - 📫 How to reach me **apoorvtripathi537@gmail.com**
 - [My Portfolio](https://apoorvtripathi.vercel.app/)
